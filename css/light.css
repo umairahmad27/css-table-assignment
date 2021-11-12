@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+}
+header,
+footer {
+    background-color: white;
+}
+table,
+th,
+td {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+}

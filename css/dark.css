@@ -1,0 +1,13 @@
+body {
+    background-color: #282828;
+    color: white;
+}
+header,
+footer {
+    background-color: #212121;
+}
+table,
+th,
+td {
+    border: 1px solid rgba(255, 255, 255, 0.62);
+}
